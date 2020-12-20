@@ -1,0 +1,69 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Paul Rich
+
+*/
+.registerContainer {
+	width: 155px;
+	height: 120px;
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.loginContainer {
+	width: 155px;
+	height: 120px;
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+.addQuoteBox {
+	border: 2px black solid;
+	width: 700px;
+	height: 150px;
+	vertical-align: text-top;
+	border-radius: 7px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.QB {
+	width: 680px;
+	height: 80px;
+}
+
+.AB {
+	width: 180px;
+}
+
+
+.authorSubmitBox {
+	margin-top: -18px;
+}
+
+
+
+.container {
+	border: 3px black solid;
+	margin: 5px;
+	border-radius: 7px;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+
+
+
+
